@@ -1,3 +1,5 @@
+# Week - 2
+
 ### <b>Ports</b>
 Connection points that we can connect devices to that extend the functionality of a computer.
 
@@ -31,7 +33,7 @@ Cache has three different levels:
 
 ### <b>CPU</b>
 Brain of our computer which performs all the calcualtions. It has a instruction book which it follows to perform operations. It has predefined instructions for addition, subtraction etc. 
-Every line goes into CPU is first boken down into separate instructions.  
+Every line goes into CPU is first broken down into separate instructions.  
   
 We just cannot take any component and assume it will work.  
   

@@ -1,10 +1,7 @@
-# Start of Google IT Support Certificate on Coursera.  
+# Start of Google IT Support Certificate on Coursera.
 
-## Course 1 Technical Support Fundamentals.
-### <b>Week - 01</b>  
-Revise Week-1 concepts <a href="./Week - 1/README.md">here</a>
+Navigate to the each courses folder to review the content and learn more about the topics. Each course has a README file to direct you to each week content.
 
-
-### <b>Week - 02</b>  
-Revise Week-2 concepts <a href="./Week - 2/README.md">here</a>
-
+### Course - 1 Technical Support Fundamentals [Notes](Course-1-Techincal-Support-Fundamentals/README.md)  
+  
+[Course-2]()
