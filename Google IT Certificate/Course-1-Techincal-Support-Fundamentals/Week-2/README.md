@@ -48,5 +48,15 @@ Mainly we need a heat sink to cool down heat from our CPU and exit it with a fan
 ### <b>RAM</b>
 Lots of types of RAM are found in Computers Commonly found RAM is DRAM.(Dynamic RAM). Stores 1s and 0s in a capacitor found in DRAM. Capacitor is either charged or discharged.  
   
-Memory Stick - DIMM
-DDR SDRAM- Double data rate SDRAM.
+Memory Stick - DIMM  
+
+DDR SDRAM- Double data rate SDRAM.  
+
+### <b>Motherboard</b>
+
+
+### <b>Storage</b>
+
+### <b>Power Supplies</b>
+
+### <b>Mobile Devices</b>
