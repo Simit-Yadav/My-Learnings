@@ -53,10 +53,40 @@ Memory Stick - DIMM
 DDR SDRAM- Double data rate SDRAM.  
 
 ### <b>Motherboard</b>
-
+Motherboard is the component which connect all the components together. It has chipset which controls how all other components talk eachother.Chipset is main component which connects RAM, CPU and Peripherals. Motherboard is made of two chips:
+1. Northernbridge which basically connects CPU. Many time northern is often integrated with other components. 
+1. This basically handles I/O like harddisk, etc.
+  
+Motherboard also has expansion slots. The standard term for them is <b>PCI Express or Peripheral Component Interconnect Express</b>. We can put additional graphics card and etc.
+  
+The body is known as Form factor. In present we have two type of form factor <b>ATX(Advanced Technology eXtended) and ITX(Information Technology eXtended)</b>. 
 
 ### <b>Storage</b>
+Basic storage units in computers. I.E bits, bytes, MB, GB  
+HDD - Hard disk drives - Interface we use to connect is SATA. 
+SSD - Solid State Drives - interface we use to connect is NVMe. Just like USD.   
+
 
 ### <b>Power Supplies</b>
+Our computer works on DC power. The use of power supply is basically to supply power how much our computer needs. 
 
 ### <b>Mobile Devices</b>
+It packs all the components like RAM, CPU and Storage in a complex way in a mobile devices, tablets, watches etc. They basically has a board called <b>SoC - System on Chip</b>packed with CPU, RAM and sometime Storage. Also found in many small devices. 
+
+### <b>Batteries and Charging Systems</b>
+Charge Cycle: 1 full charge and discharge of a battery is known as charge cycle. 
+
+### <b>Peripherals</b>
+Other components which extend the functionality of the computer.
+
+
+### <b>BIOS</b>
+BIOS - Basic Input Output service  
+Drivers - Drivers contains instructions to understand external devices like Keyboard, webcam, printer and etc.  
+ROM - Read Only memory.
+UEFI - Unified Extensible Firmware Interface.
+GMOS battery - It is present on motherboard. It stores basic data like date, time etc and  how to start up the computer
+  
+BIOS is a software which initialize our hardware and make our computer up and running. It is not stored on hard drive. It is stored on a chip in Motherboard called ROM chip.  
+  
+UEFI is another player like BIOS. It performs all the operations of BIOS like booting up and initializing hard ware. But, its modern and has better compabilities.
