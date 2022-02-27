@@ -85,8 +85,10 @@ BIOS - Basic Input Output service
 Drivers - Drivers contains instructions to understand external devices like Keyboard, webcam, printer and etc.  
 ROM - Read Only memory.
 UEFI - Unified Extensible Firmware Interface.
-GMOS battery - It is present on motherboard. It stores basic data like date, time etc and  how to start up the computer
+CMOS chip - It is present on motherboard. It stores basic data like date, time etc and  how to start up the computer
   
 BIOS is a software which initialize our hardware and make our computer up and running. It is not stored on hard drive. It is stored on a chip in Motherboard called ROM chip.  
   
 UEFI is another player like BIOS. It performs all the operations of BIOS like booting up and initializing hard ware. But, its modern and has better compabilities.
+
+## Review Computer Assembly.
