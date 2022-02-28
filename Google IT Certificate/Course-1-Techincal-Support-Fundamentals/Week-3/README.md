@@ -25,3 +25,8 @@ It is the combination of RAM and Hard disk space which is used by kernel to load
 
 ### <b>Shell</b>
 A program that interprets text commands and sends them to the OS to execute.
+
+### <b>Installing process</b>
+Windows can be install from a pendrive bought from the store. Ubuntu iso image can be downloaded to a pendrive and before copying the iso image we have to make the drive bootable with tools like etcher.io etc. Chrome OS and MAC OS come pre-installed in the machine.  
+  
+We have to also make sure to see if the components we have is compatible with the CPU, OS. Like if we have a 32bit CPU architecture than we should have a 32bit OS. 
