@@ -1,4 +1,4 @@
-# Week - 2
+# Week - 2 - Hardware
 
 ### <b>Ports</b>
 Connection points that we can connect devices to that extend the functionality of a computer.
@@ -53,7 +53,7 @@ Memory Stick - DIMM
 DDR SDRAM- Double data rate SDRAM.  
 
 ### <b>Motherboard</b>
-Motherboard is the component which connect all the components together. It has chipset which controls how all other components talk eachother.Chipset is main component which connects RAM, CPU and Peripherals. Motherboard is made of two chips:
+Motherboard is the component which connect all the components together. It has chipset which controls how all other components talk each other. Chipset is main component which connects RAM, CPU and Peripherals. Motherboard is made of two chips:
 1. Northernbridge which basically connects CPU. Many time northern is often integrated with other components. 
 1. This basically handles I/O like harddisk, etc.
   
