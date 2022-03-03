@@ -33,7 +33,13 @@ In this week we learnt about network and how they are made. In IT managing, desi
 ### <b>Week - 05</b>
 <b>Introduction to Software</b>  
 In week-5 we learnt about software. Software is a program wrote to do some specific task. There are two categories of software commercial and open source. We have different kind of software like application software and system software. Moving forward in the course we learnt about installing, updating and uninstalling software on Windows and Linux.  
-<b>Notes - [here](Week-5/README.md)  
+<b>Notes - [here](Week-5/README.md)</b>  
+
+
+### <b>Week - 06</b>
+<b>Intro to Soft Skills</b>  
+This week was fully focused on teaching us how actally technical people work and problem can be targeted. In the beginning, we started with soft skills required to give a great customer experience. To have a customer a greate service we need to have four things exhibiting empathy, acknowledging the customer, causious of tone and developing trust. Following the topic, we took a tour on how to do documentation in IT and things keep in mind are describe the problem, describe the end result and lastly lay down all the steps step by step you took to have the problem solved. Later on in the week, we learnt about what things we need while giving a technical interview and resume making.  
+</b>Notes - [here](Week-6/README.md)</b>
 
 
 
