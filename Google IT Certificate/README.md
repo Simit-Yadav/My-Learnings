@@ -4,4 +4,4 @@ Navigate to the each courses folder to review the content and learn more about t
 
 ### Course - 1 Technical Support Fundamentals [Notes](Course-1-Techincal-Support-Fundamentals/README.md)  
   
-[Course-2]()
+### Course - 2 The bits and bytes of computer networking [Notes](Course-2-The-bits-bytes-of-Networking/README.md)
