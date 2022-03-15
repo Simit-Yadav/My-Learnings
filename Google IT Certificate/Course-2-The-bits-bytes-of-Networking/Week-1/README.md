@@ -61,6 +61,7 @@ It's a 48 bits number normally represented by six-groupings of two hexadecimal n
   
 MAC address is split into two parts first three octet are given to hardware manufactures and is called as OUI(Organizationally Unique Identifier).
 
+
 ### <b>Dissecting an Ethernet Frame</b>
 
 <img src="../Images/Ethernet-Frame.jpeg">
