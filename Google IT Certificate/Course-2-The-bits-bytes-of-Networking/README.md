@@ -18,11 +18,23 @@ The week was well covered with the topics of Transport and Application layer and
 
 ### <b>Week - 4</b>  
 <b>Introduction to network services</b>  
-In this week we learnt about what are the main things to see whenever facing a network issue. They are  
+In this week we learnt about what are the main things to see whether if they are conifured properly whenever facing a network issue. They are  
 1. IP address
 1. Subnet Mask
 1. Gateway
 1. Name Server  
 
-Name servers works in different hierarchical see more in notes. Handle the four necessary parts for each computer on a network is very difficult so to overcome the problem we introduced dynamic host configuration protocol(DHCP). It a technology which has reserved IP address, basically hands our IPv6 addresses, and which also keep track of IP address ever connected to the DHCP server. It has few type of allocation like fixed, static, dynamic and automatic. Though making widespread adoption of IPv6 will take a lot of time and before it companies ran out of IPv4 addresses. To tackle the situation technology called Network Address Transmission(NAT) was introduced. It is also more of a security feature which helps to protect IP address of a node on a network from another node. To do this it uses a technique called Port Forwarding. Access a local network important files through internet will be risky so perform the task in a better way Virtual Private Network(VPN) were introduced. It helps to connect to our local network anywhere from world. It makes end to end connection to our work network. Proxies are a type of filtering, securing system.
+Along with it also see DHCP, NAT, VPN and Proxies configuration.
+
+Name servers works in different hierarchical see more in notes. Handle the four necessary parts for each computer on a network is very difficult so to overcome the problem we introduced dynamic host configuration protocol(DHCP). It a technology which has reserved IP address, basically hands our IPv6 addresses, and which also keep track of IP address ever connected to the DHCP server. It has few type of allocation like fixed, static, dynamic and automatic. Though making widespread adoption of IPv6 will take a lot of time and before it companies ran out of IPv4 addresses. To tackle the situation technology called Network Address Transmission(NAT) was introduced. It is also more of a security feature which helps to protect IP address of a node on a network from another node. To do this it uses a technique called Port Forwarding. Access a local network important files through internet will be risky so perform the task in a better way Virtual Private Network(VPN) were introduced. It helps to connect to our local network anywhere from world. It makes end to end connection to our work network. Proxies are a type of filtering, securing system.  
+<b>Notes - [here](./Week-4/README.md)</b>
+
+### <b>Week - 5</b>  
+<b>Introduction to connecting to internet</b>  
+Throughout the week we went deep into history of internet and its evolution. We learnt about earlier data transfer devices like POTS, diap-ups having max speed upto 103bps. Than after we learnt about the broadband connections which have been used since the start of 1990s. Some most common broadbands are T-carrier technology, DSL(Digital Subscriber Lines), Cable and Fibre connections. Another important concept we learnt this week was WAN(Wide are network) and wireless networking.  
+<b>Notes - [here](./Week-5/README.md)</b>  
+
+### <b>Week - 6</b>
+<b>Introduction to troubleshooting and the future of networking.</b>  
+To troubleshoot the network check connection, do test of ping, test ports, check DNS configuration, DHCP functioning, NAT, check VPN and Proxies.
 
