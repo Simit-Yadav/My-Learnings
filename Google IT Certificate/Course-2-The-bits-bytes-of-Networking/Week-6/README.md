@@ -31,6 +31,7 @@ Name servers specifically set up so that anyone can use them, for free.
 
 ### <b>Loopback address</b>
 A way of sending network traffic to yourself. 127.0.0.1  
+For IPv6 loopback address is ::1/128.
   
 ### <b>Virtualization</b>
 <img src="../Images/Virtualization.jpeg">  

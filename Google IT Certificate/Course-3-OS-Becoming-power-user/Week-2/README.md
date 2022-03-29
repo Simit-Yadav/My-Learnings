@@ -15,3 +15,34 @@
 1. sudo passwd -e username - if we have root previlages we use -e which is expiry to let user reset the password on next start.
 1. sudo useradd username - adds a user.
 1. sudo userdel username - delete a user.
+
+### <b>Permissions</b>
+<img src="../Images/windows-permission.jpeg">
+
+### <b>ICACLS</b>
+icacls - a utility to check permission of a user on a file or directory and change it using CLI.
+
+### <b>CHMOD</b>
+Command to update file permissoin in Linux.  
+<img src="../Images/chmod-rules.jpeg">
+
+<b>Character method</b>  
+chmod u+rw filename  
+chmod g+rx filename  
+chmod o-x filename  
+  
+<b>Numerical Mode</b>
+4 - read  
+2 - write  
+1 - execute  
+chmod 754 filename - which will do rwxr-x-r--.  
+  
+
+<b>chown ownername filename</b>  
+this command changes the owner name.  
+chown owername filename.  
+  
+
+<b>chgrp newgroupname oldgroupname</b>  
+this command change the group the file belong to.  
+chgrp newgroupname oldgroupname
