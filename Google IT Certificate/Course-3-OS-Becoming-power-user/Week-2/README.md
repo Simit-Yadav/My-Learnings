@@ -31,7 +31,7 @@ chmod u+rw filename
 chmod g+rx filename  
 chmod o-x filename  
   
-<b>Numerical Mode</b>
+<b>Numerical Mode</b>  
 4 - read  
 2 - write  
 1 - execute  
