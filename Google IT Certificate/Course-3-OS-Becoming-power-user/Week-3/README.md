@@ -36,6 +36,9 @@ Get-Package -Name packagename
 ### <b>Package Managers</b>
 <img src="../Images/package-manager.jpeg">
 
+### <b>List packages in Linux</b>
+dpkg -l -> list all program
+
 ### <b>Install a package in Linux</b>
 sudo apt install packagename
 
