@@ -29,3 +29,19 @@ In Java class can contain any of these variables:
 ### Packages in Java
 - It is nothing but a way to categorize classes and Interfaces.
 - If a package is present it is always the first line in the class. If import statement is present than if comes after package line and before tha class start.
+
+### Modifiers in Java
+<b>Access Control Modifiers</b>
+- public -> visible to world
+- protected -> visible to package and all sub classes
+- private -> visible to class
+- default -> visible to package no modifers needed.
+
+<b>Non-Access Modifiers</b>
+- static -> for creating class methogs and variables
+- final -> finalizing the implementation of class, variable and methods
+- abstract -> for creating the abstract classes and methods
+- synchronized and volatile -> used for threads
+
+### Wrapper Classes
+Wrapper classes provides us the way to use primitive type(int, float, byte, long, double, short, char) as an object. All wrapper classes Integer, Float, Long, Byte, Short, Double, Character are subclasses of abstract Number class.
