@@ -45,3 +45,11 @@ In Java class can contain any of these variables:
 
 ### Wrapper Classes
 Wrapper classes provides us the way to use primitive type(int, float, byte, long, double, short, char) as an object. All wrapper classes Integer, Float, Long, Byte, Short, Double, Character are subclasses of abstract Number class.
+
+### Buffering and Buffering Classes
+Buffering, which reads/writes a block of bytes from the external device into/from a memory buffer in a single I/O operation, is commonly applied to speed up the I/O. Default size: 8192bytes.  
+  
+- Buffering only provides buffering as its core functionality.
+- Works with or chained with another stream.
+- To chain stream together, simply pass an instance of one stream into the constructor of another stream. 
+<b>BufferedInputStream in = new BufferedInputStream(new FileInputStream("my.jpg"));</b> 

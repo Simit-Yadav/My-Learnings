@@ -65,3 +65,58 @@ In Java objects are created with the help of classes.
             statements
     }
     //make sure type fo value match for both switch bracket and case values.
+
+## <b>Chaining Streams</b>
+    Ex.1:
+        BufferedInputStream in = new BufferedInputStream(new FileInputStream("my.jpg"));
+    
+    Ex.2:
+        FileInputStream fileIn = new FileInputStream("in.dat"); 
+        BufferedInputStream bufferIn = new BufferedInputStream(fileIn); 
+        DataInputStream dataIn = new DataInputStream(bufferIn);
+
+## Array
+    Declare array: 
+        datatype[] var;
+        datatype var[];
+
+    Creating array
+        var = new datatype[size];
+
+    datatype[] var = new datatype[size];
+    datatype[] var = {value1,value2,value3...}
+
+## Methods
+    public static int methodName(parameters){
+
+    }
+
+    public int methodName(){
+
+    }
+
+## Variable Arguments
+    public int max(int... numbers){
+
+    }
+
+    this.max(1,2,3,4,5);
+
+## Exception Handling using try/catch
+    try{
+        //code that may throw error.
+    }catch(ExceptionName e1){
+        //code what to do if exception occurred.
+    }
+
+    Multiple Catch Block
+    ----------------------------
+    try{
+        //code that may throw error.
+    }catch(ExceptionName e1){
+        //code what to do if exception occurred.
+    }catch(ExceptionName e2){
+        //code what to do if exception occurred.
+    }catch(ExceptionName e3){
+        //code what to do if exception occurred.
+    }    
