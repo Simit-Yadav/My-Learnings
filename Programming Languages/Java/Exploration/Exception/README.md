@@ -17,3 +17,6 @@ There are three categories of Exception:
 - public void printStackTrace()
 
 ## Handling exception is done by try/catch block.
+
+## Making our own exception class.
+To make our own exception class we must extend it to Exception class.

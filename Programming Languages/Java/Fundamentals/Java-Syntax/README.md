@@ -120,3 +120,116 @@ In Java objects are created with the help of classes.
     }catch(ExceptionName e3){
         //code what to do if exception occurred.
     }    
+
+    Finally Block
+    ------------------------------
+    try {
+        // Protected code
+    } catch (ExceptionType1 e1) {
+        // Catch block
+    } catch (ExceptionType2 e2) {
+        // Catch block
+    } catch (ExceptionType3 e3) {
+        // Catch block
+    }finally {
+        // The finally block always executes.
+    }
+
+## Try with Resources
+    try(FileReader fr = new FileReader("file path")) {
+        // use the resource
+    } catch () {
+      // body of catch 
+    }
+
+## Inner Classes
+    Inner class
+    -----------------
+    class Outer_Demo{
+        class Inner_Demo{
+
+        }
+    }
+
+    Accessing the private inner class.
+    --------------------------------
+    It is instantiated inside a method of a outer class.
+    private class Inner_class{
+        public void getName(){}
+    }
+
+    public void Outer_Method(){
+        Inner_class inner = new Inner_class();
+        inner.getName();
+    }
+
+    Accessing the private members of the outer class using inner classes.
+    -------------------------------------
+    Inner class should be public.
+
+    Outer_Demo outer = new Outer_Demo();
+    Outer_Demo.Inner_Demo inner = outer.new Inner_Demo();
+
+    Method Local Inner class
+    -----------------------
+    class Outer_Demo{
+        void my_method{
+            class Inner_Demo{
+                public void print(){}
+            }
+            //accessing the inner class.
+            Inner_Demo inner = new Inner_Demo();
+            inner.print();
+        }
+    }
+
+    Anonymous Inner Class
+    -----------------------------
+    AnonymousInner an_inner = new AnonymousInner() {
+        public void my_method() {
+            ........
+            ........
+        }   
+    };
+    I.E. 
+
+    abstract class AnonymousInner {
+        public abstract void mymethod();
+    }
+
+    public class Outer_class {
+
+        public static void main(String args[]) {
+            AnonymousInner inner = new AnonymousInner() {
+                public void mymethod() {
+                    System.out.println("This is an example of anonymous inner class");
+                }
+            };
+            inner.mymethod();	
+        }
+    }
+
+## Inheriting a class 
+    class Super{
+        //stats
+    }
+    class Sub extends Super{
+        //stats
+    }
+
+## Making interface
+    See properties of interface.
+    interface Animal {
+        public void eat();
+        public void travel();
+    }
+    
+## Implementing a interface
+    public interface Face{
+
+    }
+
+    class Mask implements Face{
+        
+    }
+    
