@@ -53,3 +53,6 @@ Buffering, which reads/writes a block of bytes from the external device into/fro
 - Works with or chained with another stream.
 - To chain stream together, simply pass an instance of one stream into the constructor of another stream. 
 <b>BufferedInputStream in = new BufferedInputStream(new FileInputStream("my.jpg"));</b> 
+
+### Iterator and ListIterator
+Iterator enables you to cycle through a collection, obtaining or removing elements. ListIterator extends Iterator to allow bidirectional traversal of a list and the modification of elements.

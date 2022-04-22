@@ -10,4 +10,6 @@ It contains various static methods for sorting and searching arrays, comparing a
 - <b>public static boolean equals(array1, array2)</b> : returns true if length of both the array are same and each element is also same in both.
 - <b>public static void fill(int[] a, int val)
 - <b>pubilc static void sort(array)</b> : sort array in ascending order.
+- <b>public static List asList</b>
+- <b>public static sort</b>
 
