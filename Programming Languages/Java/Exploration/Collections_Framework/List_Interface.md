@@ -6,6 +6,10 @@
 - Allows positional access.
 - Extends the Collection interface.
 
+## Super Interfaces
+- Collection<E>
+- Iterable<E>
+
 ## Implementing Classes
 - AbstractList
 - AbstractSequentialList

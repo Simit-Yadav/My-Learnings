@@ -3,6 +3,22 @@
 
 The root interface in the collection hierarchy. A collection represents a group of objects, known as its elements. Some collections allow duplicate elements and others do not. Some are ordered and others unordered.
 
+## SuperInterface
+- Iterable<E>
+
+## All SubInterfaces
+- BeanContext
+- BeanContextServices
+- BlockingDeque<E>
+- BlockingQueue<E>
+- Deque<E>
+- List<E>
+- NavigableSet<E>
+- Queue<E>
+- Set<E>
+- SortedSet<E>
+- TransferQueue<E>
+
 ## Methods
 - <b>boolean add(Object obj)</b> : 
 Adds obj to the invoking collection. Returns true if obj was added to the collection. Returns false if obj is already a member of the collection, or if the collection does not allow duplicates.
