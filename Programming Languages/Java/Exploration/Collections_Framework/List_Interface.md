@@ -13,7 +13,7 @@
 ## Implementing Classes
 - AbstractList
 - AbstractSequentialList
-- ArrayList 
+- ArrayList - [here](./ArrayList_class.md)
 - AttributeList
 - CopyOnWriteArrayList
 - LinkedList
